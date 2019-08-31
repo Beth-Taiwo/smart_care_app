@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "29649889605",
+    "firebase_url": "https://fir-project-335a0.firebaseio.com",
+    "project_id": "fir-project-335a0",
+    "storage_bucket": "fir-project-335a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29649889605:android:95a1a968679153ca",
+        "android_client_info": {
+          "package_name": "com.example.firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29649889605-if7vc2onqrcv1tquisn098lbe0tvqhlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH7MDXHrNcED6v2N9CUr5ZClY5koX3kBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29649889605-if7vc2onqrcv1tquisn098lbe0tvqhlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29649889605:android:65e1957c72b3cdd7",
+        "android_client_info": {
+          "package_name": "com.frank.smart_care_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29649889605-if7vc2onqrcv1tquisn098lbe0tvqhlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH7MDXHrNcED6v2N9CUr5ZClY5koX3kBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29649889605-if7vc2onqrcv1tquisn098lbe0tvqhlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29649889605:android:01847d7ca0212d12",
+        "android_client_info": {
+          "package_name": "com.trifield.smart_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29649889605-if7vc2onqrcv1tquisn098lbe0tvqhlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH7MDXHrNcED6v2N9CUr5ZClY5koX3kBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29649889605-if7vc2onqrcv1tquisn098lbe0tvqhlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29649889605:android:74a0fed8c261b2fb",
+        "android_client_info": {
+          "package_name": "morelife.pop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29649889605-if7vc2onqrcv1tquisn098lbe0tvqhlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH7MDXHrNcED6v2N9CUr5ZClY5koX3kBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29649889605-if7vc2onqrcv1tquisn098lbe0tvqhlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
